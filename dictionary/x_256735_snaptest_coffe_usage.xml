@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Coffe Usage" max_length="40" name="x_256735_snaptest_coffe_usage" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Count" max_length="40" name="count" type="integer"/>
         <element label="Reason" max_length="255" name="reason" type="string"/>
         <element label="When" max_length="40" name="when" type="glide_date_time"/>
