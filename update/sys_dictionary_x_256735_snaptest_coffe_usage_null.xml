@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-10 06:53:49</sys_created_on>
-        <sys_id>05596d0edbd53300f975b08039961985</sys_id>
+        <sys_id>a0aba9cedbd53300f975b08039961923</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_256735_snaptest_coffe_usage</sys_name>
         <sys_package display_value="SNAPTest" source="x_256735_snaptest">53582d86dbd53300f975b080399619d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="SNAPTest">53582d86dbd53300f975b080399619d9</sys_scope>
-        <sys_update_name>sys_dictionary_x_256735_snaptest_coffe_usage_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-10 06:53:49</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_256735_snaptest_coffe_usage_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-10 07:03:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

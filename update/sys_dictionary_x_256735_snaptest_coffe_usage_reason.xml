@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="when" table="x_256735_snaptest_coffe_usage">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="reason" table="x_256735_snaptest_coffe_usage">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>When</column_label>
+        <column_label>Reason</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>when</element>
+        <element>reason</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date_time</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>255</max_length>
         <name>x_256735_snaptest_coffe_usage</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-10 06:53:48</sys_created_on>
-        <sys_id>a8aba9cedbd53300f975b08039961928</sys_id>
+        <sys_created_on>2019-05-10 07:02:50</sys_created_on>
+        <sys_id>c95b2d46dbd53300f975b080399619a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>When</sys_name>
+        <sys_name>Reason</sys_name>
         <sys_package display_value="SNAPTest" source="x_256735_snaptest">53582d86dbd53300f975b080399619d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="SNAPTest">53582d86dbd53300f975b080399619d9</sys_scope>
-        <sys_update_name>sys_dictionary_x_256735_snaptest_coffe_usage_when</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-05-10 07:03:54</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_256735_snaptest_coffe_usage_reason</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 07:02:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
