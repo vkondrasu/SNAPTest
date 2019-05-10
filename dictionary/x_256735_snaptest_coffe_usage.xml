@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Coffe Usage" max_length="40" name="x_256735_snaptest_coffe_usage" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Count" max_length="40" name="count" type="integer"/>
+        <element label="When" max_length="40" name="when" type="glide_date_time"/>
+    </element>
+</database>
